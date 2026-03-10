@@ -202,3 +202,4 @@ npm run dev
 ---
 
 *Projet académique — GLSID — 2024*
+*Réalisé par CHRAYAH Salma et MACHACH Marwa
