@@ -1,0 +1,28 @@
+# ─── Node / Frontend ────────────────────────────────
+node_modules/
+dist/
+.env
+.env.local
+.env.production
+
+# ─── Java / Maven ───────────────────────────────────
+target/
+*.class
+*.jar
+*.war
+.mvn/
+!.mvn/wrapper/
+
+# ─── IDE ────────────────────────────────────────────
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+
+# ─── Uploads ────────────────────────────────────────
+backend/uploads/
+
+# ─── Logs ───────────────────────────────────────────
+*.log
+logs/
